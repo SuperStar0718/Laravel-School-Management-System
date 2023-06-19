@@ -118,6 +118,3 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - The Noticeboard/Calendar in the Dashboard Area
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
-
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
